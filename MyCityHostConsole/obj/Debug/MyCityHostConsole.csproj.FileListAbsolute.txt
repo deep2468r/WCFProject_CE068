@@ -1,0 +1,11 @@
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\bin\Debug\MyCityHostConsole.exe.config
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\bin\Debug\MyCityHostConsole.exe
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\bin\Debug\MyCityHostConsole.pdb
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\bin\Debug\MyCityLibrary.dll
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\bin\Debug\MyCityLibrary.pdb
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\bin\Debug\MyCityLibrary.dll.config
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\obj\Debug\MyCityHostConsole.csprojAssemblyReference.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\obj\Debug\MyCityHostConsole.csproj.CoreCompileInputs.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\obj\Debug\MyCityHostConsole.csproj.CopyComplete
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\obj\Debug\MyCityHostConsole.exe
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityHostConsole\obj\Debug\MyCityHostConsole.pdb

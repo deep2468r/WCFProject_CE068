@@ -1,0 +1,7 @@
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\bin\Debug\MyCityLibrary.dll.config
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\bin\Debug\MyCityLibrary.dll
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\bin\Debug\MyCityLibrary.pdb
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\obj\Debug\MyCityLibrary.csprojAssemblyReference.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\obj\Debug\MyCityLibrary.csproj.CoreCompileInputs.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\obj\Debug\MyCityLibrary.dll
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityLibrary\obj\Debug\MyCityLibrary.pdb

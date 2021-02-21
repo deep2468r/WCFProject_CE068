@@ -1,0 +1,12 @@
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.csprojAssemblyReference.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.LoginForm.resources
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.Properties.Resources.resources
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.csproj.GenerateResource.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.csproj.CoreCompileInputs.cache
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\bin\Debug\MyCityClient.exe.config
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\bin\Debug\MyCityClient.exe
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\bin\Debug\MyCityClient.pdb
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.exe
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.pdb
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.StoreForm.resources
+D:\Deep\sem6\Subjects\SOC\Lab\Project\MyCityClient\obj\Debug\MyCityClient.RegisterForm.resources
